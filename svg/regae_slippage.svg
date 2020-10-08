@@ -1,0 +1,14 @@
+{ "signal" : [
+  { "name": "Chopper 1 Output", "wave": "p.............", phase:-0.25},
+  { "name": "Electron Beam (Trigger)", 	"wave": "pl..pl..pl..pl", phase:-0.25 },
+  { "name": "Chopper 2 Output", "wave": "pl..pl.pl..pl.", phase:-0.25 }
+  ],
+ 
+ head: {
+   tock: 'a b c d a b c d a b c d a b c '
+ },
+   
+ foot: {
+   tock: 'a    a   d    d    '
+ }
+}

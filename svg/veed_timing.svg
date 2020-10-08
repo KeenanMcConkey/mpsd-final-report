@@ -1,0 +1,7 @@
+{ "signal" : [
+  { "name": "12.5 Hz Trigger", 	"wave": "pl..pl..p", 		"period": 2},
+  { "name": "Chopper 1 Output", "wave": "plplplplplplplplpl"},
+  { "name": "Chopper 2 Output",	"wave": "pl......pl......pl" }
+  ],
+  config: { skin: 'narrow' }
+}
